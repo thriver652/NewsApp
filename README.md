@@ -1,7 +1,5 @@
 # NewsApp
 
-![NewsApp Logo](images/newsapp-logo.png)
-
 NewsApp is a modern web application built using HTML, CSS, and JavaScript that provides users with the latest news articles from various sources around the world. It leverages the News API to fetch and display real-time news content, offering a seamless and user-friendly experience for staying informed.
 
 ## Features
@@ -13,12 +11,6 @@ NewsApp is a modern web application built using HTML, CSS, and JavaScript that p
 - **Categorized News:** News articles are categorized by topics such as Technology, Sports, Health, and more, making it simple to explore news in your areas of interest.
 
 - **Responsive Design:** NewsApp is designed to work flawlessly on both desktop and mobile devices, providing a consistent and enjoyable user experience.
-
-## Screenshots
-
-![Screenshot 1](images/screenshot1.png)
-
-![Screenshot 2](images/screenshot2.png)
 
 ## Installation
 
